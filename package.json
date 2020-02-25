@@ -1,0 +1,16 @@
+{
+  "name": "api-clima",
+  "version": "1.0.0",
+  "description": "esto es una app para consumir datos geo referencia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernesto Ledesma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "yargs": "^14.2.2"
+  }
+}
